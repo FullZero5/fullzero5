@@ -20,5 +20,4 @@
 <a href="https://stackoverflow.com/users/4916107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4916107" height="30" width="30" /></a>
 <a href="https://codesandbox.com/fullzero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="fullzero" height="30" width="30" /></a>
 <a href="https://fb.com/vlarionov3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vlarionov3" height="30" width="30" /></a>
-<a href="https://dribbble.com/россия г.краснодар" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="россия г.краснодар" height="30" width="30" /></a>
 </p>
