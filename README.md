@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Виктор</h1>
-<h3 align="justify">Я работаю в IT уже более 13 лет и за это время попробовал себя на позициях: сервисного техника, системный администратор, junior frontend-developer, тестировщик, QA-automation. Для меня интересно изучать на работе что-то новое и не останавливаться на достигнутом.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fullzero5" alt="fullzero5" /> </p>
-
-- 👨‍💻 Все мои проекты доступны в [https://github.com/FullZero5](https://github.com/FullZero5)
-
-- 💬 Стек технологий который мне нравится **js, vue, Nodejs**
-
-- 📫 Вы можете написать мне **fullzero5@gmail.com**
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullzero5&layout=compact&hide=html" alt="fullzero5" /></p>
 
