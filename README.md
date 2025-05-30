@@ -12,14 +12,15 @@
   </ul>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullzero5&layout=compact&hide=html" alt="fullzero5" /></p>
+**<h3 align="left">GitHub Stats</h3>**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fullzero5&show_icons=true" alt="fullzero5" /></p>
-
-<p align="center">
-<a href="https://codepen.io/fullzero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="fullzero" height="30" width="30" /></a>
-<a href="https://dev.to/fullzero5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fullzero5" height="30" width="30" /></a>
-<a href="https://twitter.com/fullzero5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fullzero5" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/4916107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4916107" height="30" width="30" /></a>
-<a href="https://codesandbox.com/fullzero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="fullzero" height="30" width="30" /></a>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fullzero5&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=fullzero5&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullzero5&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=fullzero5&repo=ZTV&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
+
